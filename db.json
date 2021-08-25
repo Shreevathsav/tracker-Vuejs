@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Meeting at school",
+      "day": "August 30st at 1:00pm",
+      "remainder": false
+    },
+    {
+      "id": "3",
+      "text": "Kids outing",
+      "day": "Septemper 1st at 10:00am",
+      "remainder": true
+    },
+    {
+      "id": 92100,
+      "text": "docter's appointment",
+      "day": "May 2nd at 10am",
+      "remainder": true
+    }
+  ]
+}
